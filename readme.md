@@ -1,4 +1,4 @@
-
+# Fake News Detection Using Graph and Summarization Techniques
 Each provided folder contains following things:
 1.code.py
 2.Eval.py
